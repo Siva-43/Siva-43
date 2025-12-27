@@ -15,12 +15,20 @@
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming:** Python  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn
-- **Tools:** Git, GitHub, Jupyter Notebook  
+## 💻 Skills
+
+### 🧠 Programming Languages
+Python • SQL • …
+
+### 🛠 Frameworks & Libraries
+scikit‑learn • TensorFlow • NumPy • Pandas • Matplotlib • Flask • Streamlit
+
+### 📊 Tools & Technologies
+Git • GitHub • Jupyter • VS Code • …
+
+### 🎯 Concepts
+Machine Learning • Data Visualization • NLP • Model Deployment
+
 
 ---
 
