@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Siva
 
-<!--
-**Siva-43/Siva-43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist & Python Developer  
+📍 Rajapalayam, Tamil Nadu
+🤖 Passionate about Machine Learning & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎯 Aspiring Data Scientist with a strong interest in data-driven problem solving  
+- 🐍 Python developer building ML and data analysis projects  
+- 📊 Enjoy working with datasets, finding insights, and building models  
+- 🌱 Currently learning Machine Learning, AI, and improving coding skills  
+- 💡 Always curious and open to learning new technologies  
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Machine Learning Project** – Predictive model using real-world data  
+- 🔹 **Data Analysis Project** – Data cleaning, visualization, and insights  
+- 🔹 **Python Project** – Problem-solving and automation using Python  
+
+👉 Check out my pinned repositories below for detailed projects!
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sivak-/  
+- 📧 Email: ksiva2k2@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
